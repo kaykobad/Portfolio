@@ -10,10 +10,10 @@ Complete challenges with the Dorao app with only 3 Steps to claim your reward:
 - Track your run: Set your target and start your run; the app will keep track of your challenge     
 - Claim your reward: Earn your reward by completing challenges & competing with others.
 
-#### Community:
-Record routes on your Dorao feed so friends & followers can comment & share their progress.     
-Your cycle route is the best? Share the route map & photos of your latest bike ride.      
-Join Clubs of brands, teams, and friends, or create your own group for activities.       
+## Community:
+- Record routes on your Dorao feed so friends & followers can comment & share their progress.     
+- Your cycle route is the best? Share the route map & photos of your latest bike ride.      
+- Join Clubs of brands, teams, and friends, or create your own group for activities.       
 
 ## Demo Video
 [![Dorao - Your Running Companion Demo](https://img.youtube.com/vi/B4LK4H7Z5AI/0.jpg)](https://www.youtube.com/watch?v=B4LK4H7Z5AI)     
