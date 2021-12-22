@@ -1,3 +1,10 @@
-# My Protfolio     
-This repository contains all the projects that I have done in the past years. Each of the folders contains the resources of a single project (assets, screenshots and description), Feel free to visit [my website](https://kaykobadreza.com) for more information abput me and my upcoming works.
+# Pessa - Real-Time Financial Transaction
+
+[![Pessa - Real-Time Financial Transaction Demo](https://img.youtube.com/vi/e7P2X0ZKMLQ/0.jpg)](https://www.youtube.com/watch?v=e7P2X0ZKMLQ)
+
+## Important Information About the App
+- **Framework:** [Flutter](https://flutter.dev/)
+- **Backend:** [Firebase](https://firebase.google.com/)    
+
+[Reach out to me](https://kaykobadreza.com/) for more information about the app or its development process. I'll be happy to bring your idea to reality.   
 
