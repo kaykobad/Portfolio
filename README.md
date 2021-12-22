@@ -1,6 +1,5 @@
-
 # My Recent Projects     
-This repository contains all the projects I have done in the past years. Each of the folders includes the resources of a single project (assets, screenshots, and description). Feel free to visit [my website](https://kaykobadreza.com) for more information about my upcoming works.    
+This repository contains all the projects I have done in the past years. Each of the folders includes the resources of a single project (assets, screenshots, and description). Click on any project name to see the detailed information. Feel free to visit [my website](https://kaykobadreza.com) for more information about my upcoming works.    
 
 ## [Dorao - Your Running Companion](https://kaykobadreza.com/portfolio/dorao/)
 [![Dorao - Your Running Companion Demo](https://img.youtube.com/vi/B4LK4H7Z5AI/0.jpg)](https://www.youtube.com/watch?v=B4LK4H7Z5AI)    
