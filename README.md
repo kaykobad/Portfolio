@@ -1,5 +1,7 @@
 # My Recent Projects     
-This repository contains all the projects I have done in the past years. Each of the folders includes the resources of a single project (assets, screenshots, and description). Click on any project name to see the detailed information. Feel free to visit [my website](https://kaykobadreza.com) for more information about my upcoming works. 
+This repository contains all the projects I have done in the past years. Each of the folders includes the resources of a single project (assets, screenshots, and description). Click on any project name to see the detailed information. 
+
+**Feel free to visit *[my website](https://kaykobadreza.com)* for more information about my upcoming works.** 
 
 ## [Dyne - Meet Your Friends Over Food (May 2022)](https://github.com/kaykobad/Portfolio/tree/master/Dyne%20-%20Meet%20Your%20Friends%20Over%20Food/)
 ![Dyne - Meet Your Friends Over Food (May 2022)](assets/Dyne-Banner.png)    
