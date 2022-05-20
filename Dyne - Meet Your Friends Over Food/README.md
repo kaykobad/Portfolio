@@ -2,23 +2,23 @@
 
 ![Dyne - Meet Friends Over Food](assets/Dyne-Banner.png)      
 
-#### Overview
-##### Why Dyne?
+## Overview
+### Why Dyne?
 Ever find yourself busy? Struggling to get the time to meet with your friends? Well, Dyne is a social app that allows you to meet up with your friends, instantaneously over food while saving money at the same time!     
 
 ####
 
-##### Mission:
+### Mission:
 We strive to focus all our efforts to provide you with a platform that can make your life just a bit easier by helping you foster meaningful and lasting connections, promising to bring the social in media back to you.     
 
 ####
 
-##### Vision:
+### Vision:
 Our vision's bedrock is to understand the importance of socializing and creating a more inclusive student community, using bold methodologies to create meaningful social interactions that keep the momentum of enthusiasm going strong within our community.     
 
 ####
 
-##### Main Features:
+### Main Features:
 
 **The Radar Feature:** Discover Restaurants around you instantaneously and never worry about where to eat again. Available friends will pop up on the map as well!
 
@@ -33,7 +33,7 @@ Our vision's bedrock is to understand the importance of socializing and creating
 **Profiles:** Adding in the social aspect to our app, we have friend recommendations for you based on similar interests and cuisines!
 
 
-#### Features At a Glance
+## Features At a Glance
 - User Authentication with Email & Password  
 - Social Login (Apple and Google)  
 - Restaurant Exploration Based on Current Location    
@@ -49,7 +49,7 @@ Our vision's bedrock is to understand the importance of socializing and creating
 - and much more...     
 
 
-#### Important Information About the App
+## Important Information About the App
 - **Framework:** [Flutter](https://flutter.dev/)     
 - **Backend:** [Firebase](https://firebase.google.com/), [NodeJs](https://nodejs.org/en/)    
 - **Play Store:** [Dyne - Android App](https://play.google.com/store/apps/details?id=com.sidharthgrover.foodbuddy)  

@@ -2,12 +2,12 @@
 
 ![Payvor - Pay & Get Paid For Favor](assets/Payvor-Banner.png)      
 
-#### Overview
+## Overview
 **Pay and get paid for a favor!**       
 
 Payvor’s platform matches you with the people around you for any type of task you may need. Talk to a larger pool of people in minutes and select best people for the job.      
 
-##### When Use Payvor           
+### When Use Payvor           
 - When you need help but can not go to anyone else      
 - When you have moved to a new place and need help doing anything     
 - When you want help for your university assignment and need someone to explain it to you    
@@ -20,7 +20,7 @@ That is when Payvor steps in! Payvor is the bridge that connects people, the inv
 
 ####
 
-##### How it works
+### How it works
 
 **Post a job/task for free:** Tell us what you need and set the price you are willing to pay for the job.     
 
@@ -33,7 +33,7 @@ That is when Payvor steps in! Payvor is the bridge that connects people, the inv
 **Payment and rating:** Once the task has been completed, you can release the payment through our secure online platform. Both of you get to rate each other on the collaboration and leave a comment for future members to see.     
 
 
-#### Features At a Glance
+## Features At a Glance
 - User Authentication with Email & Password With Verification     
 - Post For a Favor       
 - Location Based Favor Searching and Applying       
@@ -46,7 +46,7 @@ That is when Payvor steps in! Payvor is the bridge that connects people, the inv
 - and much more...     
 
 
-#### Important Information About the App
+## Important Information About the App
 - **Framework:** [Flutter](https://flutter.dev/)     
 - **Backend:** [Firebase](https://firebase.google.com/), [C# .NET](https://docs.microsoft.com/en-us/dotnet/csharp/)    
 - **App Store:** [Payvor - iOS App](https://apps.apple.com/app/payvor-favor-app/id1558962094)  
