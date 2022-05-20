@@ -1,36 +1,54 @@
-# [Cherished Prayers - Social Media for the Pious](https://kaykobadreza.com/portfolio/cherished-prayers/)      
+# [Payvor - Pay & Get Paid For Favor](https://kaykobadreza.com/portfolio/cherished-prayers/)      
 
-![Cherished Prayers - Social Media for the Pious](assets/banner.png)      
+![Payvor - Pay & Get Paid For Favor](assets/Payvor-Banner.png)      
 
-## Overview
-In today’s world, people are getting away from God and do not offer prayers. The people who want to offer prayers must face many difficulties as they do not know the proper methods and notes they must speak while offering the prayer. Moreover, many people have many questions about the verses and the prayer methods and hesitate to ask someone. Those who ask may have to put some effort into asking as they must search Imam for it. Moreover, people's knowledge in this world is minimal for religion.
+#### Overview
+**Pay and get paid for a favor!**       
 
-> “Prayer does not change God, but it changes him who prays.”
+Payvor’s platform matches you with the people around you for any type of task you may need. Talk to a larger pool of people in minutes and select best people for the job.      
 
-To solve these problems, I built a system named “Cherished Prayers System,” where users will have the advantage of setting a proper verse for all the people within the group. This system will ensure the timely praying of a lot of people. The first thing that this system does right away is let the user record prayers and set notifications or a reminder for that prayer. The user will then be having the advantage of offering that prayer by using the application. Moreover, the user can also leave a prayer note for his family in the same section. All the communication between the user and his friends will occur in the chatbox. Feed is the post and comment section in the application. The system will also focus on the customer feedback and the admin's response in time for customer satisfaction, due to which trust will be developed between the user and the admin.
+##### When Use Payvor           
+- When you need help but can not go to anyone else      
+- When you have moved to a new place and need help doing anything     
+- When you want help for your university assignment and need someone to explain it to you    
+- When you need someone to help you carry groceries      
+- When you need a car to pick up heavy items from the store      
+- When you need someone to help you clean the house after a big party        
+- When you are on holidays in a foreign country and want to be toured by a local        
 
-Many such applications already exist but with some cons. The existing apps are costly and are not readily available. Moreover, the user isn’t allowed to provide feedback. I implemented this system to remove all these problems.
+That is when Payvor steps in! Payvor is the bridge that connects people, the invisible friend that is always by your side. 
 
-I took this incredible opportunity to build this handy app. I made "Cherished Prayers App" with Flutter as a cross-platform mobile framework and Django as the backend. Flutter gives the native performance and experience, while Django provides us with all the services related to the backend of the app. I used Firebase for implementing real-time chat functionality.
+####
 
-## Demo Video
-[![Cherished Prayers - Social Media for the Pious](https://img.youtube.com/vi/Zzmjo8LxoKw/0.jpg)](https://www.youtube.com/watch?v=Zzmjo8LxoKw)      
+##### How it works
 
-## Features
-- User Authentication with Email & Password
-- Social Login (Facebook, Apple, and Google)
-- User Profile Management
-- Ability to post, comment, or like any post or comment
-- Ability to update or delete post or comment
-- Real-time chat with text and images
-- Making Friends (send, cancel, accept friend requests, unfriend)
-- User blocking (block or unblock user)
-- Report a bug
-- Provide feedback and rating
-- Different settings, configurations, and much more...
+**Post a job/task for free:** Tell us what you need and set the price you are willing to pay for the job.     
 
-## Important Information About the App
-- **Framework:** [Flutter](https://flutter.dev/)
-- **Backend:** [Django](https://www.djangoproject.com/) | [Firebase](https://firebase.google.com/)
+**Helpers come to you:** The members that are a good fit for the job will apply to your favor.     
 
-[Reach out to me](https://kaykobadreza.com/) for more information about the app or its development process. I'll be happy to bring your idea to reality.
+**Select the helper you like:** The applicants will be waiting for your decision in the applicant zone. Select the best candidate for the job. Chat with the applicants and hire the one that is the best match for the task.     
+
+**Collaborate:** The task will be completed by the helper and you will be notified.     
+
+**Payment and rating:** Once the task has been completed, you can release the payment through our secure online platform. Both of you get to rate each other on the collaboration and leave a comment for future members to see.     
+
+
+#### Features At a Glance
+- User Authentication with Email & Password With Verification     
+- Post For a Favor       
+- Location Based Favor Searching and Applying       
+- Apply For Any Favor        
+- Add Your Bank Details For Sending/Receiving Payments             
+- Automatic Payment Management With Stripe                  
+- Ratings and Reviews                   
+- User Profile Management                 
+- Push Notification                 
+- and much more...     
+
+
+#### Important Information About the App
+- **Framework:** [Flutter](https://flutter.dev/)     
+- **Backend:** [Firebase](https://firebase.google.com/), [C# .NET](https://docs.microsoft.com/en-us/dotnet/csharp/)    
+- **App Store:** [Payvor - iOS App](https://apps.apple.com/app/payvor-favor-app/id1558962094)  
+
+Reach out to me for more information about the app or it's developement process. I'll be happy to bring your idea to reality.       
