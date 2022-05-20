@@ -1,4 +1,4 @@
-# [Mazely - Amazing Maze Game](https://kaykobadreza.com/portfolio/mazely/)
+# [Mazely - Amazing Maze Game](https://portfolio.kaykobadreza.com/portfolio/mazely/)
 
 ![Mazely - Amazing Maze Game](assets/mazely.png)
 

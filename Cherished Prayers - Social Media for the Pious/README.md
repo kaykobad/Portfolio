@@ -1,4 +1,4 @@
-# [Cherished Prayers - Social Media for the Pious](https://kaykobadreza.com/portfolio/cherished-prayers/)      
+# [Cherished Prayers - Social Media for the Pious](https://portfolio.kaykobadreza.com/portfolio/cherished-prayers/)      
 
 ![Cherished Prayers - Social Media for the Pious](assets/banner.png)      
 

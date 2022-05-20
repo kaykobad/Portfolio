@@ -1,4 +1,4 @@
-# [Payvor - Pay & Get Paid For Favor](https://kaykobadreza.com/portfolio/cherished-prayers/)      
+# [Payvor - Pay & Get Paid For Favor](https://portfolio.kaykobadreza.com/portfolio/payvor/)      
 
 ![Payvor - Pay & Get Paid For Favor](assets/Payvor-Banner.png)      
 
@@ -51,4 +51,4 @@ That is when Payvor steps in! Payvor is the bridge that connects people, the inv
 - **Backend:** [Firebase](https://firebase.google.com/), [C# .NET](https://docs.microsoft.com/en-us/dotnet/csharp/)    
 - **App Store:** [Payvor - iOS App](https://apps.apple.com/app/payvor-favor-app/id1558962094)  
 
-Reach out to me for more information about the app or it's developement process. I'll be happy to bring your idea to reality.       
+[Reach out to me](https://kaykobadreza.com/) for more information about the app or it's developement process. I'll be happy to bring your idea to reality.       

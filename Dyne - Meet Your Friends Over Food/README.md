@@ -1,6 +1,6 @@
-# [Dyne - Meet Friends Over Food](https://kaykobadreza.com/portfolio/cherished-prayers/)      
+# [Dyne - Meet Friends Over Food](https://portfolio.kaykobadreza.com/portfolio/dyne-app/)      
 
-![Dyne - Meet Friends Over Food](assets/dyne-Banner.png)      
+![Dyne - Meet Friends Over Food](assets/Dyne-Banner.png)      
 
 #### Overview
 ##### Why Dyne?
@@ -57,4 +57,4 @@ Our vision's bedrock is to understand the importance of socializing and creating
 - **Website:** [Dyne - Website](https://dyneapp.ca/)  
 - **Linkedin Company Page:** [DYNE Technologies Inc](https://www.linkedin.com/company/dyneyvr/)   
 
-Reach out to me for more information about the app or it's developement process. I'll be happy to bring your idea to reality.      
+[Reach out to me](https://kaykobadreza.com/) for more information about the app or it's developement process. I'll be happy to bring your idea to reality.      

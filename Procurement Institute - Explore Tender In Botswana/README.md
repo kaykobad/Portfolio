@@ -1,6 +1,6 @@
-# [Procurement Institute - Explore Tenders in Botswana](https://kaykobadreza.com/portfolio/procurement-institute/)
+# [Procurement Institute - Explore Tenders in Botswana](https://portfolio.kaykobadreza.com/portfolio/procurement-institute/)
 
-![Procurement Institute - Explore Tenders in Botswana](assets/pi.jpeg)
+![Procurement Institute - Explore Tenders in Botswana](assets/Pi-Banner.png)
 
 ## Overview
 Finding, searching, or submitting tenders are quite hectic as users need to search different corporate offices periodically which is both time-consuming and cumbersome. Procurement Institute collects all the gazetted tenders in one simple app so that users can find and learn about tenders of their choice easily and reliably. Procurement Institute app keeps users updated about different tenders, site visiting dates, or tender submitting dates along with user preferences and filtering.
