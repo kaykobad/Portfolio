@@ -1,6 +1,6 @@
 # [Pessa - Real-Time Financial Transaction](https://portfolio.kaykobadreza.com/portfolio/pessa/)
 
-[Pessa - Real-Time Financial Transaction](assets/Pessa-Banner.png)
+![Pessa - Real-Time Financial Transaction](assets/Pessa-Banner.png)
 
 ## Overview
 Pessa is a complete mobile wallet which lets you add money from any card, send money to your friends instantly, cashout from specific points, request payments and much more.     
