@@ -19,7 +19,7 @@ This repository contains all the projects I have done in the past years. Each of
 ![Procurement Institute - Explore Tenders in Botswana](assets/Pi-Banner.png)    
 
 ## [Pessa - Realtime Finalcial Transaction (April 2021)](https://github.com/kaykobad/Portfolio/tree/master/Pessa%20-%20Realtime%20Finalcial%20Transaction/)
-[![Pessa - Real-Time Financial Transaction Demo](https://img.youtube.com/vi/e7P2X0ZKMLQ/0.jpg)](https://www.youtube.com/watch?v=e7P2X0ZKMLQ)    
+![Pessa - Real-Time Financial Transaction Demo](assets/Pessa-Banner.png)      
 
 ## [Cherished Prayers - Social Media for the Pious (March 2021)](https://github.com/kaykobad/Portfolio/tree/master/Cherished%20Prayers%20-%20Social%20Media%20for%20the%20Pious/)
 ![Cherished Prayers - Social Media for the Pious](assets/cherished-prayers.png)    
