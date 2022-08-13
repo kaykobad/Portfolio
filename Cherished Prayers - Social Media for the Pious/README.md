@@ -30,6 +30,7 @@ I took this incredible opportunity to build this handy app. I made "Cherished Pr
 - Different settings, configurations, and much more...
 
 ## Important Information About the App
+- **Time Line:** 28th December, 2020 - 22nd February, 2021           
 - **Framework:** [Flutter](https://flutter.dev/)
 - **Backend:** [Django](https://www.djangoproject.com/) | [Firebase](https://firebase.google.com/)
 

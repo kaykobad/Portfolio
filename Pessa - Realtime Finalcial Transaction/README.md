@@ -28,6 +28,7 @@ In a word, Pessa app lets users Register with his mobile number and enables him 
 - Much More...    
 
 ## Important Information About the App
+- **Time Line:** 12th February, 2021 - 22nd April, 2021      
 - **Framework:** [Flutter](https://flutter.dev/)  
 - **Backend:** [Firebase](https://firebase.google.com/), [C# .NET](https://docs.microsoft.com/en-us/dotnet/csharp/)         
 

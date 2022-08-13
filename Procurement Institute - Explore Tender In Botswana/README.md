@@ -35,6 +35,7 @@ Finding, searching, or submitting tenders are quite hectic as users need to sear
 - Different settings, configurations, and much more...
 
 ## Important Information About the App
+- **Time Line:** 14th December, 2020 - 2nd August, 2022       
 - **Framework:** [Flutter](https://flutter.dev/)
 - **Backend:** [Firebase](https://firebase.google.com/)
 - **Google Play:** [Procurement Institure](https://play.google.com/store/apps/details?id=com.procurementinstitute.procurement_institute/)       

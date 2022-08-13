@@ -26,6 +26,7 @@ For helping people solve challenging levels, hints are provided. Players can use
 - And much more...
 
 ## Important Information About the App
+- **Time Line:** 20th May, 2020 - 27th May, 2020     
 - **Framework:** [Flutter](https://flutter.dev/)
 - **Level Generator:** [Python](https://www.python.org/)
 - **Google Play:** [Mazely App](https://play.google.com/store/apps/details?id=com.kaykobadreza.mazely)

@@ -47,6 +47,7 @@ That is when Payvor steps in! Payvor is the bridge that connects people, the inv
 
 
 ## Important Information About the App
+- **Time Line:** 24th December, 2021 - 8th February, 2022      
 - **Framework:** [Flutter](https://flutter.dev/)     
 - **Backend:** [Firebase](https://firebase.google.com/), [C# .NET](https://docs.microsoft.com/en-us/dotnet/csharp/)    
 - **App Store:** [Payvor - iOS App](https://apps.apple.com/app/payvor-favor-app/id1558962094)  

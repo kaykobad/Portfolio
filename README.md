@@ -10,7 +10,7 @@ This repository contains all the projects I have done in the past years. Each of
 ![Payvor - Pay and Get Paid for a Favor (February 2022)](assets/Payvor-Banner.png)    
 
 ## [Dorao - Your Running Companion (November 2021)](https://github.com/kaykobad/Portfolio/tree/master/Dorao%20-%20Your%20Running%20Companion/)
-![Dorao - Your Running Companion Demo](assets/dorao.jpeg)    
+![Dorao - Your Running Companion Demo](assets/Dorao-2.png)    
 
 ## [Kalimera - Your Tour Guide to Greece (July 2021)](https://github.com/kaykobad/Portfolio/tree/master/Kalimera%20-%20Your%20Tour%20Guide%20to%20Greece/)
 ![Kalimera - Tour Guide to Greece Demo](assets/kalimera.png)    

@@ -19,6 +19,7 @@ Elections must be transparent in order to be acceptable. DeProof app is built to
 - Much More...    
 
 ## Important Information About the App
+- **Time Line:** 8th December, 2020 - 22nd February, 2021            
 - **Framework:** [Flutter](https://flutter.dev/)  
 - **Backend:** [Firebase](https://firebase.google.com/), [Laravel](https://laravel.com/)         
 

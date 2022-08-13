@@ -34,22 +34,25 @@ Our vision's bedrock is to understand the importance of socializing and creating
 
 
 ## Features At a Glance
-- User Authentication with Email & Password  
-- Social Login (Apple and Google)  
-- Restaurant Exploration Based on Current Location    
-- Meetup Creation       
-- Making Friends        
-- Quests, Rewards and Leaderboard      
-- Custom Coupons          
-- User Profile Management      
-- Location Tracking      
-- Push Notification and Alrets         
-- Event Creation, Management & Booking  
-- Chat     
-- and much more...     
+- User Authentication with Email & Password        
+- Social Login (Apple and Google)          
+- Restaurant Exploration Based on Current Location         
+- Meetup Creation             
+- Making Friends         
+- Realtime Chat with Friends         
+- Community Chat       
+- Deeplink Sharing in Chat         
+- Quests, Rewards and Leaderboard        
+- Custom Coupons        
+- User Profile Management         
+- Location Tracking       
+- Push Notification and Alrets       
+- Event Creation, Management & Booking          
+- and much more…          
 
 
 ## Important Information About the App
+- **Time Line:** 16th March, 2022 - 6th August, 2022         
 - **Framework:** [Flutter](https://flutter.dev/)     
 - **Backend:** [Firebase](https://firebase.google.com/), [NodeJs](https://nodejs.org/en/)    
 - **Play Store:** [Dyne - Android App](https://play.google.com/store/apps/details?id=com.sidharthgrover.foodbuddy)  

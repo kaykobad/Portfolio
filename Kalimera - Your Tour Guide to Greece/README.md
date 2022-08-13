@@ -31,6 +31,7 @@ I took this awesome opportunity to build my very first international tourist gui
 
 
 ## Important Information About the App
+- **Time Line:** 12th April, 2021 - 15th August, 2021       
 - **Framework:** [Flutter](https://flutter.dev/)
 - **Backend:** [Firebase](https://firebase.google.com/)
 - **Play Store:** [Kalimera - Android App](https://play.google.com/store/apps/details?id=com.outergaze.kosapp)
