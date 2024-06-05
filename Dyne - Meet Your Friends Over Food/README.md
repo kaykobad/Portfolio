@@ -1,4 +1,4 @@
-# [Dyne - Meet Friends Over Food](https://portfolio.kaykobadreza.com/portfolio/dyne-app/)      
+# [Dyne - Meet Friends Over Food](https://kaykobadreza.com/blog/dyne-meet-friends-over-food/)      
 
 ![Dyne - Meet Friends Over Food](assets/Dyne-Banner.png)      
 

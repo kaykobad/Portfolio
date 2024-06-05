@@ -1,4 +1,4 @@
-# [Procurement Institute - Explore Tenders in Botswana](https://portfolio.kaykobadreza.com/portfolio/procurement-institute/)
+# Procurement Institute - Explore Tenders in Botswana
 
 ![Procurement Institute - Explore Tenders in Botswana](assets/Pi-Banner.png)
 

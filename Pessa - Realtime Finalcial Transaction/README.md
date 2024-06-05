@@ -1,4 +1,4 @@
-# [Pessa - Real-Time Financial Transaction](https://portfolio.kaykobadreza.com/portfolio/pessa/)
+# Pessa - Real-Time Financial Transaction
 
 ![Pessa - Real-Time Financial Transaction](assets/Pessa-Banner.png)
 

@@ -1,4 +1,4 @@
-# [Payvor - Pay & Get Paid For Favor](https://portfolio.kaykobadreza.com/portfolio/payvor/)      
+# Payvor - Pay & Get Paid For Favor    
 
 ![Payvor - Pay & Get Paid For Favor](assets/Payvor-Banner.png)      
 

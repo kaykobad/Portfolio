@@ -1,4 +1,4 @@
-# [Dorao - Your Running Companion](https://portfolio.kaykobadreza.com/portfolio/dorao/)
+# [Dorao - Your Running Companion](https://kaykobadreza.com/blog/dorao-your-running-companion/)
 
 ![Dorao - Your Running Companion](assets/Dorao-2.png)
 
